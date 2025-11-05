@@ -11,3 +11,6 @@ IE의 경우 degraded input -> clean output을 목적으로 함.
 # Normalization(Image enhancement task에서 Batch Norm을 권장하지 않는 이유)
 - [RepSR: Training Efficient VGG-style Super-Resolution Networks with Structural Re-Parameterization and Batch Normalization] (https://dl.acm.org/doi/pdf/10.1145/3503161.3547915)
 - [Edge-oriented Convolution Block for Real-time Super Resolution on Mobile Devices] (https://www4.comp.polyu.edu.hk/~cslzhang/paper/MM21_ECBSR.pdf)
+
+# Real-time IE
+- [MobileIE] (https://www.arxiv.org/pdf/2507.01838)

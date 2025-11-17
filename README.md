@@ -14,3 +14,6 @@ IE의 경우 degraded input -> clean output을 목적으로 함.
 
 # Real-time IE
 - [MobileIE] (https://www.arxiv.org/pdf/2507.01838)
+
+# Training Strategy
+- [Continuous Adverse Weather Removal via Degradation-Aware Distillation] (https://openaccess.thecvf.com/content/CVPR2025/papers/Lu_Continuous_Adverse_Weather_Removal_via_Degradation-Aware_Distillation_CVPR_2025_paper.pdf)
